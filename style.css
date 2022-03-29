@@ -1,0 +1,40 @@
+.heading h3{
+    display:inline;
+}
+.heading{
+    width: 100%;
+    text-align:left;
+}
+.heading button{
+float: right;
+border: 5px solid royalblue;
+}
+.big_img{
+    width: 100%;
+}
+#start, #status{
+    font-size: 25px;
+}
+#instruct{
+    background-color:rgb(200, 255, 0);
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+h4{
+    margin: 0px;
+    background: radial-gradient(red 0%, rgb(47, 0, 255) 100%);
+    line-height: 3;
+    color:antiquewhite;
+    font-size:25px;
+}
+video{
+    background-image:url("game_console.png");
+    background-size:cover;
+    padding:25px;
+    background-position: center;
+}
